@@ -1,19 +1,43 @@
 .diva {
     border: 1px black solid;
     margin: 20px;
+    width: 400px;
+    height: 150px;
+    padding: 30px;
+
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .divb {
     border: 1px black dashed;
     margin: 20px;
+    padding: 30px; 
+    width: 600px;
+    height: 200px;
+
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .divc {
     border: 1px black dotted;
     margin: 20px;
+    padding: 30px;
+    width: 200px;
+    height: 200px; 
+
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .divd {
     border: 1px black inset;
     margin: 20px;
+    padding: 30px;
+    width: 150px;
+    height: 300px; 
+
+    margin-left: auto;
+    margin-right: auto;
 }
