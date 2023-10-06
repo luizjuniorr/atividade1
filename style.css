@@ -1,0 +1,19 @@
+.diva {
+    border: 1px black solid;
+    margin: 20px;
+}
+
+.divb {
+    border: 1px black dashed;
+    margin: 20px;
+}
+
+.divc {
+    border: 1px black dotted;
+    margin: 20px;
+}
+
+.divd {
+    border: 1px black inset;
+    margin: 20px;
+}
